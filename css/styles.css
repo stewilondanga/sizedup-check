@@ -30,12 +30,11 @@ body {
   height: 1.5em;
 }
 
-/*
 input {
   opacity: 0;
 }
 
-label{
+/*label{
   border: .4em solid #90A4AE;
   width: 4em;
   height: 4em;
