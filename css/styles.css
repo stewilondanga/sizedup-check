@@ -60,17 +60,15 @@ div {
   height: 0;
 }
 
-/*input:checked+div{
+input:checked+div {
   border-color: transparent transparent #7CB342 #7CB342;
-  border-width: 1.5em 4em .5em .5em ;
-
+  border-width: 1.5em 4em .5em .5em;
   width: 4.5em;
   height: 2em;
-
   left: 0;
 }
 
-label:nth-child(1){
+/*label:nth-child(1){
   font-size: .5rem;
 }
 label:nth-child(2){
