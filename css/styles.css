@@ -44,7 +44,7 @@ label {
   margin: .5rem;
 }
 
-/*div {
+div {
   position: absolute;
   display: block;
   border-color: transparent;
@@ -56,12 +56,11 @@ label {
   transform: rotate(-45deg);
   transition-duration: .3s;
   transition-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
-
   width: 0;
   height: 0;
 }
 
-input:checked+div{
+/*input:checked+div{
   border-color: transparent transparent #7CB342 #7CB342;
   border-width: 1.5em 4em .5em .5em ;
 
