@@ -80,12 +80,12 @@ label:nth-child(3) {
   font-size: 2rem;
 }
 
-/*.containers {
+.containers {
   width: 520px;
   margin: 20px auto;
 }
 
-#contact h1 {
+/*#contact h1 {
   font-family: helvetica;
   font-weight: normal;
   text-align: center;
