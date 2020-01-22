@@ -9,6 +9,12 @@ html, body {
   padding: 0;
 }
 
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .my_social {
   position: absolute;
   top: 25px;
@@ -24,11 +30,6 @@ html, body {
   height: 1.5em;
 }
 
-body{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
 
 input {
   opacity: 0;
