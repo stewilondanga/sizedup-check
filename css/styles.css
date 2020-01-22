@@ -72,10 +72,11 @@ label:nth-child(1) {
   font-size: .5rem;
 }
 
-/*label:nth-child(2){
+label:nth-child(2) {
   font-size: 1.2rem;
 }
-label:nth-child(3){
+
+/*label:nth-child(3){
   font-size: 2rem;
 }
 
