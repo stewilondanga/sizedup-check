@@ -34,7 +34,7 @@ input {
   opacity: 0;
 }
 
-/*label{
+label {
   border: .4em solid #90A4AE;
   width: 4em;
   height: 4em;
@@ -44,7 +44,7 @@ input {
   margin: .5rem;
 }
 
-div {
+/*div {
   position: absolute;
   display: block;
   border-color: transparent;
